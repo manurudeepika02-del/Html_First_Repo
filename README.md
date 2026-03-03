@@ -19,3 +19,7 @@ The project demonstrates essential HTML elements required to design a complete w
 - Audio player support
 - Google Maps embedding
 - Contact form
+
+## Project Output
+
+![Output](output.png.png)
